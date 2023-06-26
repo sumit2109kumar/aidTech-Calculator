@@ -13,7 +13,6 @@ This is a simple calculator project built using HTML, CSS, and JavaScript. It pr
 
 # Usage
 
-Clone the repository: git clone https://github.com/sumit2109kumar/calculator.git
 Open the index.html file in your preferred web browser.
 
 # Contributing
